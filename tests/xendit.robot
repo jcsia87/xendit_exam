@@ -26,4 +26,4 @@ Division
     [Template]  Divide Numbers
     64  4  16
     6  3  2
-    # 10  5  5
+    10  5  2
