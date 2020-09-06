@@ -1,0 +1,6 @@
+{
+    "rfLanguageServer.includePaths": [
+        "**/*.robot",
+        "**/*.py"
+    ]
+}
